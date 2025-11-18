@@ -2,7 +2,8 @@
 
 **Elevate Labs Internship – Task 3**
 
-This Java program is a multi-class **Library Management System** developed for **Elevate Labs Java Developer Internship (Task 3)**. It is a simple console-based application that helps manage books and users using core **Object-Oriented Programming** concepts in Java.
+This Java program is a multi-class **Library Management System** developed for **Elevate Labs Java Developer Internship (Task 3)**. 
+It is a simple console-based application that helps manage books and users using core **Object-Oriented Programming** concepts in Java.
 
 ---
 
